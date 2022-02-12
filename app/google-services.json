@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833781568721",
+    "project_id": "nullcaselogin-60711",
+    "storage_bucket": "nullcaselogin-60711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833781568721:android:6c53a11afa4097bf30e1f0",
+        "android_client_info": {
+          "package_name": "com.example.nullcaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833781568721-pquujtfdeh6068v3o6ulq36fek3jenj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0r1Ce3LkpQn6XfgwdtnAMoA4oqv7P9kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833781568721-pquujtfdeh6068v3o6ulq36fek3jenj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
